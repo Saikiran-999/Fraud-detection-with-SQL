@@ -1,6 +1,7 @@
 **Fraud_Detection_SQL**
 
-![Image](https://github.com/users/Ajitha-6/projects/1/assets/157273982/8ba71a77-3f03-458a-a991-d4781a0dc3f3)
+![credit_card_fraudster](https://github.com/Saikiran-999/Fraud-detection-with-SQL/assets/157275002/c694b90b-bd36-49a6-a358-161a6a076cfd)
+
 
 **Background**
 
@@ -52,7 +53,8 @@ Using your database model as a blueprint, create a database schema for each of y
 
 Now that your data is prepared within the database, it's finally time to identify fraudulent transactions using SQL and Pandas DataFrames. Top 100 highest transactions during early hours i.e. 7:00 to 9:00 AM
 
-![Image](https://github.com/users/Ajitha-6/projects/1/assets/157273982/4e67c68f-d0e7-4e96-9aa4-15f0dcb8c1ee)
+![Early_hour](https://github.com/Saikiran-999/Fraud-detection-with-SQL/assets/157275002/c39c7345-14e6-4dcf-a530-4180025252de)
+
 
 * Some fraudsters hack a credit card by making several small payments (generally less than $2.00), which are typically ignored by cardholders. Count the transactions that are less than $2.00 per cardholder. Is there any evidence to suggest that a credit card has been hacked? Explain your rationale.
 
@@ -64,8 +66,9 @@ Created a report for fraudulent transactions of some top customers of the firm u
 
 * Fraudulent transactions in the history of two of the most important customers of the firm on the basis of their cardholders' IDs are 18 and 2.
 
-* ![Image](https://github.com/users/Ajitha-6/projects/1/assets/157273982/897f6040-6b10-4935-97c8-54e481724f36)
-* ![Image](https://github.com/users/Ajitha-6/projects/1/assets/157273982/c34a9c38-2d3a-4556-8a73-b917003e2b65)
+![id_holder_2](https://github.com/Saikiran-999/Fraud-detection-with-SQL/assets/157275002/a07f89a1-d775-4033-b0a2-435a51fc4f4f)
+![id_holder_18](https://github.com/Saikiran-999/Fraud-detection-with-SQL/assets/157275002/4b8ed6d0-59cd-460a-a022-f0b96d361bc9)
+
   
   * Observation : `The consumption pattern for both the id holder is very different. Id Holder 2 makes too many small transactions. Id Holder 18 has transactions ranging till $1839. Id Holder 2 is more suspectable to fraudulent transactions`
 
@@ -73,7 +76,8 @@ Created a report for fraudulent transactions of some top customers of the firm u
 
   * Using Plotly Express, created a series of six box plots, one for each month, in order to identify how many outliers there are per month for cardholder ID 25.
   
- ![Image](https://github.com/users/Ajitha-6/projects/1/assets/157273982/308924f1-4877-441c-a256-885fd5d5b84c)
+  (https://github.com/Saikiran-999/Fraud-detection-with-SQL/assets/157275002/6a6358eb-7a58-44c4-a0f0-7a48c1eee08c)
+
 
   * Observations : `There seems to be fraudulent transactions pertaining to Restaurant & Food Truck category where Food Truck is ranging from $1.46 to $1046`
 
@@ -84,8 +88,9 @@ Another approach to identify fraudulent transactions is to look for outliers in 
 
  **Identifying Outliers based on Standard Deviation**
 
-![Image](https://github.com/users/Ajitha-6/projects/1/assets/157273982/83cab302-af6b-4463-bd13-898b9196b6de)
+![anomalous_transaction](https://github.com/Saikiran-999/Fraud-detection-with-SQL/assets/157275002/e4bd4298-b18b-4f67-8b26-0c44915788ef)
 
 **Identifying Outliers based on Interquartile Range**
 
-![Image](https://github.com/users/Ajitha-6/projects/1/assets/157273982/aea19e0c-53df-4b12-9bde-40b6acfdea70)[](url)
+![anomalous_transaction_2](https://github.com/Saikiran-999/Fraud-detection-with-SQL/assets/157275002/a56c903a-680e-42fc-b1ab-155d30cf649d)
+
