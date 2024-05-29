@@ -23,16 +23,16 @@ Accomplish three main tasks:
 
 **Query Files**
 
-* https://github.com/Ajitha-6/SQL/blob/main/schema.sql
-* https://github.com/Ajitha-6/SQL/blob/main/seed.sql
+* https://github.com/Saikiran-999/Fraud-detection-with-SQL/blob/main/schema.sql
+* https://github.com/Saikiran-999/Fraud-detection-with-SQL/blob/main/seed.sql
 
 **CSV Files**
 
-- https://github.com/Ajitha-6/Fraud-detection-with-SQL/blob/main/card_holder.csv
-- https://github.com/Ajitha-6/Fraud-detection-with-SQL/blob/main/credit_card.csv
-- https://github.com/Ajitha-6/Fraud-detection-with-SQL/blob/main/merchant.csv
-- https://github.com/Ajitha-6/Fraud-detection-with-SQL/blob/main/merchant_category.csv
-- https://github.com/Ajitha-6/Fraud-detection-with-SQL/blob/main/transaction.csv
+- https://github.com/Saikiran-999/Fraud-detection-with-SQL/blob/main/card_holder.csv
+- https://github.com/Saikiran-999/Fraud-detection-with-SQL/blob/main/credit_card.csv
+- https://github.com/Saikiran-999/Fraud-detection-with-SQL/blob/main/merchant.csv
+- https://github.com/Saikiran-999/Fraud-detection-with-SQL/blob/main/merchant_category.csv
+- https://github.com/Saikiran-999/Fraud-detection-with-SQL/blob/main/transaction.csv
 
 
  **Data Modeling**
