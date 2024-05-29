@@ -53,7 +53,7 @@ Using your database model as a blueprint, create a database schema for each of y
 
 Now that your data is prepared within the database, it's finally time to identify fraudulent transactions using SQL and Pandas DataFrames. Top 100 highest transactions during early hours i.e. 7:00 to 9:00 AM
 
-![Early_hour](https://github.com/Saikiran-999/Fraud-detection-with-SQL/assets/157275002/c39c7345-14e6-4dcf-a530-4180025252de)
+ ![Early_hour](https://github.com/Saikiran-999/Fraud-detection-with-SQL/assets/157275002/c39c7345-14e6-4dcf-a530-4180025252de)
 
 
 * Some fraudsters hack a credit card by making several small payments (generally less than $2.00), which are typically ignored by cardholders. Count the transactions that are less than $2.00 per cardholder. Is there any evidence to suggest that a credit card has been hacked? Explain your rationale.
@@ -76,8 +76,7 @@ Created a report for fraudulent transactions of some top customers of the firm u
 
   * Using Plotly Express, created a series of six box plots, one for each month, in order to identify how many outliers there are per month for cardholder ID 25.
   
-  (https://github.com/Saikiran-999/Fraud-detection-with-SQL/assets/157275002/6a6358eb-7a58-44c4-a0f0-7a48c1eee08c)
-
+  ![id_holder_25](https://github.com/Saikiran-999/Fraud-detection-with-SQL/assets/157275002/be711c5d-a3ee-489d-8d00-db0648c6c85d)
 
   * Observations : `There seems to be fraudulent transactions pertaining to Restaurant & Food Truck category where Food Truck is ranging from $1.46 to $1046`
 
