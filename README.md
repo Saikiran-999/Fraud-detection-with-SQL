@@ -42,7 +42,8 @@ Create an entity relationship diagram (ERD) by inspecting the provided CSV files
 **Note:** For the `credit_card` table, the `card` column should be a VARCHAR(20) datatype rather than an INT.
 Tool used to develop ERD [Quick Database Diagrams](https://app.quickdatabasediagrams.com/#/) to create your model.
 
-![Image](https://github.com/users/Ajitha-6/projects/1/assets/157273982/396792f1-cc1c-4469-b333-a22c47819a23)
+![QuickDBD-export](https://github.com/Saikiran-999/Fraud-detection-with-SQL/assets/157275002/8ddfaada-a771-4b6f-b3a8-6a336afe5977)
+
 
  **Data Engineering**
 
